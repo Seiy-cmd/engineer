@@ -1,0 +1,300 @@
+body{ margin: 0px;
+
+}
+
+
+
+
+
+
+
+
+.perfil {
+        font-family:  clarendon; 
+        font-size: 55px;
+        background-color: blue;
+        color: white;
+        letter-spacing: 5px;
+        margin: 0px;
+        
+
+
+}
+.datos1 {
+        font-family: candles;
+        
+        text-align: center;
+        
+        margin-top: 5px;
+        margin-bottom: 0px;
+       
+
+
+}
+.datos1:hover{
+        text-shadow: 4px 4px blue;
+
+}
+.HOME1 {
+        font-family: notram;
+        font-size: 25px;
+        color: darkblue;
+        text-decoration: none;
+
+        
+}
+ .HOME1:hover{
+        text-decoration: underline;
+
+
+ }
+.fondo {
+        width: 100%;
+}
+.h3 {
+       font-family: clarendon; 
+       font-size: 20px;
+       word-spacing: 10px;
+       text-align: center;
+       margin: 5px;
+
+}
+.h3:hover{
+         
+         font-size: 21px;
+         
+         
+}
+.p {
+        font-family: arial;
+        text-align: justify;
+        margin: 10px;
+        font-size: 18px;
+
+}
+.h6 {
+        font-family: clarendon;
+        font-size: 16px;
+        color: darkblue;
+}
+.h6:hover{
+
+        text-decoration: underline;
+        font-family: splash;
+}
+.img {
+        width: 430px;
+        height:320px;
+        border: 5px solid black;
+}
+.img:hover{
+        width: 450px;
+        height: 340px;
+}
+
+.img1 {
+         width: 430px;
+        height:320px;
+        border: 5px solid black; }
+.img1:hover{
+        border: 6px solid black;
+        width: 450px;
+        height: 340px;
+}
+
+.img6 { 
+        
+
+        width: 1.5%;
+        height:1.5%;
+        
+        margin-top: 1px;
+        margin-right: 3px;
+        margin-left: 3px;
+        text-align: center;
+        margin-bottom: 5px;
+
+
+}
+.img6:hover{
+
+        width: 2%;
+        height: 2%;
+
+
+}
+
+.piedepagina {
+        background-color: black;
+
+}
+.vid1{
+          width: 350px;
+        height:320px; 
+        border: 5px solid black;
+        text-align: center;
+}
+.vid1:hover{
+        width: 370px;
+        height: 340px;
+        border: 6px solid darkblue;
+}
+.imgg1{
+          width: 350px;
+        height:320px;
+         }
+
+
+.rowspan { width: 40%;
+          background-color: black;
+
+}
+.perfil2{ 
+         font-family:  clarendon; 
+        font-size: 25px;
+        color: white;
+        text-shadow: 4px 4px blue;
+        
+      
+}
+.perfil3{ 
+         font-family:  clarendon; 
+        font-size: 25px;
+        
+        color: dark;
+        text-decoration: underline;
+        text-align: center;
+        margin: 0px;
+
+}
+.perfil3:hover{
+        color: darkblue;
+        font-size: 28px;
+}
+.rowspan1 { width: 20%;
+        background-color: black;
+
+
+}
+
+.perfil5{ 
+         
+        font-size: 20px;
+        
+        color: white;
+       
+        background-color: black;}
+
+
+.table{
+                text-align: center;
+ }
+.vide2{
+        text-align: center;
+        width: 100%;}
+
+
+}
+.pff{
+        text-align: center;
+}
+
+.tabla{ margin-left:440px;
+        margin-right: 440px;
+        text-align: center;
+
+}
+.proyecto{ margin-left: 440px;
+        margin-right: 440px;
+
+}     
+
+.p1{margin-left: 440px;
+        margin-right: 440px;
+        font-size: 19px;
+
+}
+
+
+.div1{
+        margin-left: 440px;
+}
+
+.img3{
+        text-align: justify;
+        margin: 10px;
+        font-size: 20px;
+}
+.h10 {
+       font-family: clarendon; 
+       font-size: 20px;
+       word-spacing: 10px;
+       text-align: center;
+       margin-bottom: 15px;
+       }
+.h10:hover{
+        text-decoration: underline;
+        font-size: 25px;
+}
+.div5{
+        margin-left: 440px;
+        margin-right: 440px;
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 20px;
+}
+.div5:hover{
+        color: darkblue;
+
+}
+.img5{
+        width: 340px;
+        height:320px;
+        border: 5px solid black
+
+}
+.img5:hover{
+        width: 360px;
+        height: 340px;
+        border: 6px solid blue;
+}
+.p9{
+        margin-left: 430px;
+        margin-right: 430px;
+        text-align: justify;
+        font-size: 19px;
+}
+.maps{
+        margin-left: 220px;
+        margin-right: 220px;
+        margin-bottom: 20px;
+        margin-top: 50px;
+}
+.li:hover{
+        font-weight: bold;
+}
+.boton:hover{
+        width: 4%;
+        height: 22%;
+        color: white;
+        background-color: blue;
+}
+.elemento1{
+        position: sticky;
+        top: 0;
+        background-color: white;
+        z-index: 100;
+}
+.perf{
+        position: sticky;
+        top:0;
+        z-index: 100;
+        text-align: center;
+}
+.perf2{
+        position: sticky;
+        top:0;
+        z-index: 100;
+        text-align: center;
+        background-color: white;
+}
